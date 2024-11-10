@@ -1,3 +1,7 @@
 [submodule "lib/minilibx"]
 	path = lib/minilibx
 	url = https://github.com/kodokaii/MLX42
+
+	[submodule "lib/libft"]
+	path = lib/libft
+	url = https://github.com/Blackbill1/koalib
